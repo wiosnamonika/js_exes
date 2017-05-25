@@ -1,3 +1,4 @@
+
 var Car = function (marka, kolor) { //na starcie miala byc wartosc 0,dlatego nie musimy przekazywac numbersOFkilometers do argumentow
 
     this.brand = marka;
